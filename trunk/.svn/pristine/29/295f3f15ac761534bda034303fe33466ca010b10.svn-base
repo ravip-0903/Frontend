@@ -1,1 +1,0 @@
-{$lang.labs_msg_subject}

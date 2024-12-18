@@ -1,5 +1,0 @@
-<Files ~ "\.(php|tpl)$">
-  deny from all
-</Files>
-Allow from all
-Options -Indexes

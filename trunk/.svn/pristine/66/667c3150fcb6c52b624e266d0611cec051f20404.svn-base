@@ -1,3 +1,0 @@
-<administration>
-	<item title="development_tools" dispatch="devtools.manage" name="Development Tools"/>
-</administration>

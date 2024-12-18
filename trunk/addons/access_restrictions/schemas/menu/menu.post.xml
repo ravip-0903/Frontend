@@ -1,3 +1,0 @@
-<administration>
-	<item title="store_access" dispatch="access_restrictions.manage" position="1250" />
-</administration>

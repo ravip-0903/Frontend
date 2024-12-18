@@ -1,2 +1,0 @@
-QP_GET_CARDINFO = https://payments.billdesk.com/amexezeclick/merchantService/getCardDetail
-QP_GET_TRNSTATUS = https://payments.billdesk.com/amexezeclick/merchantService/getNZCTransactionStatus

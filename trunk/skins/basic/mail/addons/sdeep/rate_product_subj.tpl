@@ -1,1 +1,0 @@
-{$lang.rate_product_subject|replace:'[order_id]':$order_info.order_id}

@@ -1,1 +1,0 @@
-{$lang.winner_subj}

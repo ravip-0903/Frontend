@@ -1,3 +1,0 @@
-<administration>
-	<item title="webmail" privilege="" dispatch="webmail.manage" />
-</administration>

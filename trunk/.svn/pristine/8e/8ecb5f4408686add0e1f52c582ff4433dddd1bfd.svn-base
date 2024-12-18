@@ -1,1 +1,0 @@
-{include file="buttons/button.tpl" but_text=$lang.print_shipping_label but_href="orders.print_shipping_label?order_id=`$order_info.order_id`&format=pdf" but_role="tool"}
