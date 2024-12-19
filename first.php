@@ -1,1 +1,1 @@
-deployed on smoke1
+deployed on smoke1 and prod
